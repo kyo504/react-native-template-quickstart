@@ -1,4 +1,20 @@
 {
   "name": "react-native-template-quickstart",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "React Native Starter Kit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyo504/react-native-template-quickstart.git"
+  },
+  "keywords": [
+    "react-native",
+    "boilerplate",
+    "quickstart",
+  ],
+  "author": "Hunkyo Jung <hunkyo.jung@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyo504/react-native-template-quickstart/issues"
+  },
+  "homepage": "https://github.com/kyo504/react-native-template-quickstart#readme"
 }
