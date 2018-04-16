@@ -8,7 +8,7 @@ export default class HomeScreen extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>Hello World</Text>
+        <Text style={styles.text}>HelloWorld template</Text>
       </View>
     );
   }
